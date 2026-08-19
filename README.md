@@ -9,7 +9,6 @@
 [![Status](https://img.shields.io/badge/Repository-Auto%20Synced-success?style=for-the-badge)](https://neetcode.io)
 
 </div>
-
 ---
 
 ## 📖 About
